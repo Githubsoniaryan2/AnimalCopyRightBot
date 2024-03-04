@@ -1,7 +1,7 @@
 {
-  "name": "ᴛᴇʟᴇɢʀᴀᴍ-ʙᴏᴛ-ᴀᴘᴘ",
+  "name": "Animal-CopyrightBot",
   "description": "Telegram Bot using Pyrogram",
-  "repository": "https://github.com/WCGKING/BRANDEDCOPYRIGHT",
+  "repository": "https://github.com/Githubsoniaryan2/AnimalCopyRightBot",
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID",
